@@ -1,0 +1,3 @@
+rootProject.name = 'platform-pharmacy'
+
+include 'main-web-chorok'
