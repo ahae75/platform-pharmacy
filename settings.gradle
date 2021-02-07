@@ -1,3 +1,4 @@
 rootProject.name = 'platform-pharmacy'
 
+include 'module-domain'
 include 'main-web-chorok'
